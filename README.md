@@ -38,3 +38,6 @@ The model achieved good performance in classifying breast tumors. The project de
 
 Nafia Eram
 M.Sc. Biotechnology, 2026
+## Project Notebook
+
+[Open the Machine Learning Project Notebook](./Copy_of_Data_science_project_bioinformatics_ynb.ipynb)
